@@ -12,7 +12,7 @@ Is it possible to use machine learning to predict the borrowing cost across diff
 # 👪 Community
 
 ## Hacking Sessions
-- Algovera hacking sessions: Wednesdays at 17:00 UTC. 60 min. [Zoom link](https://us02web.zoom.us/j/83096005105?pwd=L25LdVB6YU4xK2lnZ2FHcHNJN2dhUT09), Meeting ID 830 9600 5105, Passcode 457739. Anyone is welcome to drop in! 👋
+- Algovera hacking sessions: Wednesdays at 17:00 UTC. 60 min. [Zoom link](https://zoom.us/j/8349780070?pwd=TzBrZFU0Sng1N0wrTG5QSEs4ZXZPUT09), Meeting ID 834 978 0070, Passcode 370768. Anyone is welcome to drop in! 👋
 - Catch up on previous sessions in the Hacking Sessions playlist of our [YouTube](https://www.youtube.com/playlist?list=PLgIrgqrkZC909wDde_t4D1sGUp1-_jboM)
 - Join the discussion in the #🖥-hacking-sessions channel of our [Discord](https://discord.gg/e65RuHSDS5)
 
@@ -20,7 +20,7 @@ Is it possible to use machine learning to predict the borrowing cost across diff
 
 Algovera is a community of individuals working to facilitate and accelerate the development of decentralised AI products and research.
 
-[Website](https://www.algovera.ai/) | [Notion](https://algovera.notion.site/) | [Discord](https://discord.gg/e65RuHSDS5) | [Calendar](https://calendar.google.com/calendar/embed?src=c_4qajdfj4imie9cpnkbvkrc7ri4%40group.calendar.google.com) | [Twitter](https://twitter.com/AlgoveraAI) | [YouTube](https://www.youtube.com/channel/UC2A5iUpP6k52ZZmC8LFj1IA) 
+[Website](https://www.algovera.ai/) | [Notion](https://algovera.notion.site/) | [Discord](https://discord.gg/e65RuHSDS5) | [Calendar](https://algovera.notion.site/Calendar-9d79fab364234b47b6d24021efc28e42) | [Twitter](https://twitter.com/AlgoveraAI) | [YouTube](https://www.youtube.com/channel/UC2A5iUpP6k52ZZmC8LFj1IA) 
 
 # 🏗 Initial Setup 
 
@@ -30,11 +30,12 @@ Open a new terminal and:
 ```console
 #clone repo
 git clone https://github.com/AlgoveraAI/DeFi.git
-cd DeFi
+cd DeFi-borrowing-cost-prediction
 ```
 
 # 🤖 Resources
 
+- Successful Algovera Grants [proposal](https://forum.algovera.ai/t/proposal-predictive-model-for-borrowing-cost-of-popular-defi-protocols/31/2)
 - Project [scope](https://docs.google.com/document/d/18VwuIonYWP8IJ7tfUtJJwxDRyagPMeqrAfVhg80rcrU/edit) (thanks Iago!)
 - Video overview of machine learning techniques that can be used to classify/cluster user accounts as part of the DeFi & Cross-chain Interoperability Hackathon on [Gitcoin](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUI3Y04yTnFqSGFaQi1QZEttM1pRTGtVUVhmZ3xBQ3Jtc0ttWllHSTFhVFY4MGp0OWZiS1hyYmx4VlF5cGdYaTd4WnFyWTBrRkxQTW04NnlwQmM2WmJNZ253dkVFbUl0eEpiSDBXY3ZhNjBnZkd6RV90bUdmNmJfLTB1ODdEUGlaVzZncFJ1TGVzRXhhLXo2d3dMZw&q=https%3A%2F%2Fgitcoin.co%2Fhackathon%2Fdefi-crosschain%2Fonboard)
 - Good summary for high level options to query historical blockchain data in the Synthetix [docs](https://docs.synthetix.io/integrations/data)
