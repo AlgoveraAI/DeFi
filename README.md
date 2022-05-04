@@ -35,7 +35,7 @@ cd DeFi-borrowing-cost-prediction
 
 # 🤖 Resources
 
-- Successful Algovera Grants [proposal1](https://forum.algovera.ai/t/proposal-predictive-model-for-borrowing-cost-of-popular-defi-protocols/31/2), [proposa2](https://forum.algovera.ai/t/predictive-model-for-borrowing-cost-of-popular-defi-protocols/68/4)
+- Successful Algovera Grants [proposal1](https://forum.algovera.ai/t/proposal-predictive-model-for-borrowing-cost-of-popular-defi-protocols/31/2), [proposal2](https://forum.algovera.ai/t/predictive-model-for-borrowing-cost-of-popular-defi-protocols/68/4)
 - Project [scope](https://docs.google.com/document/d/18VwuIonYWP8IJ7tfUtJJwxDRyagPMeqrAfVhg80rcrU/edit) (thanks Iago!)
 - Video overview of machine learning techniques that can be used to classify/cluster user accounts as part of the DeFi & Cross-chain Interoperability Hackathon on [Gitcoin](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUI3Y04yTnFqSGFaQi1QZEttM1pRTGtVUVhmZ3xBQ3Jtc0ttWllHSTFhVFY4MGp0OWZiS1hyYmx4VlF5cGdYaTd4WnFyWTBrRkxQTW04NnlwQmM2WmJNZ253dkVFbUl0eEpiSDBXY3ZhNjBnZkd6RV90bUdmNmJfLTB1ODdEUGlaVzZncFJ1TGVzRXhhLXo2d3dMZw&q=https%3A%2F%2Fgitcoin.co%2Fhackathon%2Fdefi-crosschain%2Fonboard)
 - Good summary for high level options to query historical blockchain data in the Synthetix [docs](https://docs.synthetix.io/integrations/data)
