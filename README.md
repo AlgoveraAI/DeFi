@@ -40,7 +40,7 @@ cd DeFi-borrowing-cost-prediction
 - Video overview of machine learning techniques that can be used to classify/cluster user accounts as part of the DeFi & Cross-chain Interoperability Hackathon on [Gitcoin](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUI3Y04yTnFqSGFaQi1QZEttM1pRTGtVUVhmZ3xBQ3Jtc0ttWllHSTFhVFY4MGp0OWZiS1hyYmx4VlF5cGdYaTd4WnFyWTBrRkxQTW04NnlwQmM2WmJNZ253dkVFbUl0eEpiSDBXY3ZhNjBnZkd6RV90bUdmNmJfLTB1ODdEUGlaVzZncFJ1TGVzRXhhLXo2d3dMZw&q=https%3A%2F%2Fgitcoin.co%2Fhackathon%2Fdefi-crosschain%2Fonboard)
 - Good summary for high level options to query historical blockchain data in the Synthetix [docs](https://docs.synthetix.io/integrations/data)
 - Incredibly informative [article](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) describing statistical approach to choosing optimal Uni V3 LP positions
-- Good resource for labelled blockchain data in the Flipside [docs](https://docs.flipsidecrypto.com/)
+- Good resource for labeled blockchain data in the Flipside [docs](https://docs.flipsidecrypto.com/)
 
 # 🏛 License
 
